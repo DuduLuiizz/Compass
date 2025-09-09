@@ -1,0 +1,1 @@
+Este repositório reúne todas as atividades desenvolvidas durante meu estágio na Compass UOL, incluindo projetos, desafios técnicos e demais entregas realizadas ao longo da jornada de aprendizado.
